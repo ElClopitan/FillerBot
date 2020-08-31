@@ -7,7 +7,7 @@
 
 #roslaunch sawyer_moveit_config sawyer_moveit.launch electric_gripper:=true
 
-#rosrun drawing pizza.py
+#rosrun drawing main.py
 
 #rosrun tf tf_echo base right_gripper_tip
 
